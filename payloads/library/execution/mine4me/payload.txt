@@ -54,3 +54,4 @@ Q DELAY 500
 Q STRING exit
 Q ENTER
 LED FINISH
+/payload/switch/
